@@ -22,7 +22,7 @@ Fique à vontade para conferir todos os meus mini projetos. Se você tem interes
 
 ## | Redes sociais |
 
-**Discord**  
-[`skullzitos_1`](https://discord.com/users/1208511911495340175)  
+**Discord:**  
+[`333`](https://discord.com/users/1208511911495340175)  
 
-<img src="https://media.tenor.com/9BojN7YmvHIAAAAi/discord.gif" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="35" height="35" alt="Discord">
