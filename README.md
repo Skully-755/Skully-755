@@ -25,4 +25,4 @@ Fique à vontade para conferir todos os meus mini projetos. Se você tem interes
 **Discord:**  
 [`333`](https://discord.com/users/1208511911495340175)  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="35" height="35" alt="Discord">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f441/512.webp" width="30" height="30" alt="Olho">
