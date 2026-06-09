@@ -25,4 +25,4 @@ Fique à vontade para conferir todos os meus mini projetos. Se você tem interes
 **Discord**  
 [`skullzitos_1`](https://discord.com/users/1208511911495340175)  
 
-<img src="https://cdn-icons-gif.flaticon.com/15706/15706953.gif" width="50" height="50" alt="Discord GIF">
+<img src="https://media.tenor.com/9BojN7YmvHIAAAAi/discord.gif" width="50">
