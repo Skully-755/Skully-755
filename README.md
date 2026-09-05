@@ -10,8 +10,6 @@
   Desenvolvo ferramentas auxiliares em Python com o objetivo de consolidar meu conhecimento técnico e, futuramente, alcançar independência financeira.
 </p>
 
----
-
 <hr style="border: 3px solid #FF0000; margin: 30px 0;">
 
 <h2 align="center">#~ Conecte-se</h2>
