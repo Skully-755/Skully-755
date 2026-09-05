@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Skully-755&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
+</p>
+
 <h1 align="center">#~ Bem vindo</h1>
 
 <p align="center">
@@ -6,6 +11,8 @@
 </p>
 
 ---
+
+<hr style="border: 3px solid #FF0000; margin: 30px 0;">
 
 <h2 align="center">#~ Conecte-se</h2>
 
@@ -42,4 +49,8 @@
   <a href="https://discord.com/users/1208511911495340175">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer" width="100%"/>
 </p>
